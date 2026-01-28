@@ -1,4 +1,35 @@
 # 🌐 Create a Virtual Machine and Deploy a Web Server (Azure)
+## 📸 Screenshots
+
+### 1. Azure Resource Group Overview
+Shows the full set of resources provisioned for the Nextcloud deployment, including VM, Bastion, NSG, VNet, and associated public IPs — all located in East US.
+
+![Azure Resource Group Overview](<img width="1920" height="939" alt="Screenshot_18" src="https://github.com/user-attachments/assets/00d6212f-4a0b-4cb7-9f6f-6cf971157ac4" />
+)
+
+---
+
+### 2. Virtual Machine Overview
+Details of the VM named `VM-USE-NEXTCLOUD`, running Ubuntu 22.04 in East US Zone 2. Includes specs, public/private IPs, and networking setup.
+
+![VM Configuration](<img width="1908" height="938" alt="Screenshot_17" src="https://github.com/user-attachments/assets/cf0fde70-63bc-4a03-9cd8-7037c72b4b20" />
+)
+
+---
+
+### 3. Bastion status
+Terminal session via Azure Bastion showing HTTPS self-signed certificate setup, service status checks, and trusted domain configuration.
+
+![Nextcloud Terminal Setup](<img width="1920" height="1038" alt="Screenshot_11" src="https://github.com/user-attachments/assets/aa364f8f-52c6-47ee-acec-894c691b500e" />
+)
+
+---
+
+### 4. Nextcloud Web Dashboard
+Live view of the Nextcloud dashboard accessed via public IP. Displays recommended files and user menu under the account "SHAWN".
+
+![Nextcloud Web Dashboard](<img width="1920" height="1036" alt="Screenshot_15" src="https://github.com/user-attachments/assets/73177e82-5f44-4e76-b733-2cb613fba792" />
+)
 
 ## 📌 Project Overview
 This project demonstrates how to create a **Linux Virtual Machine in Microsoft Azure** and deploy a **web server** to host a simple webpage.  
