@@ -20,7 +20,7 @@ Details of the VM named `VM-USE-NEXTCLOUD`, running Ubuntu 22.04 in East US Zone
 ### 3. Bastion status
 Terminal session via Azure Bastion showing HTTPS self-signed certificate setup, service status checks, and trusted domain configuration.
 
-![Nextcloud Terminal Setup](<img width="1920" height="1038" alt="Screenshot_11" src="https://github.com/user-attachments/assets/aa364f8f-52c6-47ee-acec-894c691b500e" />
+![Nextcloud Terminal Setup](Screenshot_11.png)
 )
 
 ---
