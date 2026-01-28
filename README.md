@@ -125,6 +125,6 @@ First, confirm Apache is running:
 sudo systemctl status apache2
 
 Next, retrieve the public IP address of the virtual machine (from the Azure Portal), then open a browser and navigate to:
-http://<public-ip-address>
+https://172.174.155.220
 
-If the configuration is successful, the custom webpage will be displayed.
+If the configuration is successful, the custom webpage will be displayed. (Vm will be turned off so it probably wont display)
