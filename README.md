@@ -28,8 +28,7 @@ Terminal session via Azure Bastion showing HTTPS self-signed certificate setup, 
 ### 4. Nextcloud Web Dashboard
 Live view of the Nextcloud dashboard accessed via public IP. Displays recommended files and user menu under the account "SHAWN".
 
-![Nextcloud Web Dashboard](<img width="1920" height="1036" alt="Screenshot_15" src="https://github.com/user-attachments/assets/73177e82-5f44-4e76-b733-2cb613fba792" />
-)
+![Nextcloud Web Dashboard](Screenshot_15.png)
 
 ## 📌 Project Overview
 This project demonstrates how to create a **Linux Virtual Machine in Microsoft Azure** and deploy a **web server** to host a simple webpage.  
