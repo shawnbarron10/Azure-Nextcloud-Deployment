@@ -90,7 +90,6 @@ sudo apt install apache2 -y
 Once the installation is complete, verify that the Apache service is running:
 sudo systemctl status apache2
 
-
 ## Step 6: Configure Firewall Rules
 
 To allow users to access the web server from the internet, HTTP traffic must be permitted through the firewall.
