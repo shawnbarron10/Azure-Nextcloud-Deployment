@@ -12,8 +12,7 @@ Shows the full set of resources provisioned for the Nextcloud deployment, includ
 ### 2. Virtual Machine Overview
 Details of the VM named `VM-USE-NEXTCLOUD`, running Ubuntu 22.04 in East US Zone 2. Includes specs, public/private IPs, and networking setup.
 
-![VM Configuration](<img width="1908" height="938" alt="Screenshot_17" src="https://github.com/user-attachments/assets/cf0fde70-63bc-4a03-9cd8-7037c72b4b20" />
-)
+![VM Configuration](Screenshot_17.png)
 
 ---
 
