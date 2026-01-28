@@ -4,8 +4,7 @@
 ### 1. Azure Resource Group Overview
 Shows the full set of resources provisioned for the Nextcloud deployment, including VM, Bastion, NSG, VNet, and associated public IPs — all located in East US.
 
-![Azure Resource Group Overview](<img width="1920" height="939" alt="Screenshot_18" src="https://github.com/user-attachments/assets/00d6212f-4a0b-4cb7-9f6f-6cf971157ac4" />
-)
+![Azure Resource Group Overview](Screenshot_18.png)
 
 ---
 
